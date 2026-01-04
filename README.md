@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm VINCENT Brice</h1>
 <h3 align="center">A fullstack / devops developer</h3>
-
+<p>
+Fullstack & DevOps developer with over 6 years of experience building, deploying, and maintaining robust and scalable web applications. I work across the entire development lifecycle, from frontend and backend development to CI/CD pipelines, infrastructure automation, and production environments. Passionate about clean code, performance, and DevOps best practices, I enjoy optimizing workflows, automating deployments, and solving complex technical challenges.
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/brice-vincent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="brice-vincent" height="30" width="40" /></a>
