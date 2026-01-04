@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm VINCENT Brice</h1>
 <h3 align="center">A fullstack / devops developer</h3>
 <p>
-Fullstack & DevOps developer with over 6 years of experience building, deploying, and maintaining robust and scalable web applications. I work across the entire development lifecycle, from frontend and backend development to CI/CD pipelines, infrastructure automation, and production environments. Passionate about clean code, performance, and DevOps best practices, I enjoy optimizing workflows, automating deployments, and solving complex technical challenges.
+Fullstack & DevOps developer with over 6 years of experience designing, building, and operating scalable and high-performance web applications. I have strong expertise in backend development using <strong>Laravel</strong>, as well as frontend development with <strong>React</strong> and <strong>React Native</strong> for modern web and mobile applications.
+</p>
+<p>
+Beyond application development, I specialize in <strong>web architecture</strong>, <strong>infrastructure design</strong>, and <strong>high-availability systems</strong>. I design and deploy resilient architectures, including clustered and load-balanced environments, CI/CD pipelines, and production-ready infrastructures focused on reliability, security, and performance.
+</p>
+<p>
+I am also the founder and director of two companies: <strong>Alsacreaweb</strong>, a web development agency specializing in custom digital solutions, and <strong>HC-Domotique</strong>, dedicated to smart home systems and intelligent automation solutions.
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
